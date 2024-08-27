@@ -3,9 +3,9 @@ import time
 import csv
 import random
 import pandas as pd
-from fake_useragent import UserAgent
+# from fake_useragent import UserAgent
 # 实例化一个对象
-ua = UserAgent()
+# ua = UserAgent()
 # co = ChromiumOptions().headless()
 co = ChromiumOptions()
 
@@ -19,7 +19,7 @@ co = ChromiumOptions()
 # 获取视频信息
 def craw_video_info_by_url(url):
     # 隐藏浏览器
-    co.headless(on_off=True)
+    # co.headless(on_off=True)
     # 随机useragent
     # random_ua = ua.random
     # print(random_ua)
@@ -303,8 +303,9 @@ if __name__ == '__main__':
     url = 'https://www.douyin.com/video/7396247570340760872'
     # print(craw_video_info_by_url(url))
     # print(craw_comment_info_by_url(url))
-    # keyword = '背债'
-    # craw_video_list_by_keyword(keyword)
+    keyword = '法人'
+    save_url_path = r'data/video_url_{}.txt'.format(keyword)
+    craw_video_list_by_keyword(keyword,save_url_path)
     # main()
     # main_video_info()
-    main_comment_info()
+    # main_comment_info()
