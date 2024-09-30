@@ -1,0 +1,222 @@
+{
+    "code": 0,
+    "message": "Success",
+    "zpData": {
+        "geekDetail": {
+            "geekBaseInfo": {
+                "name": "池**",
+                "large": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=039f2eaa1649f8adjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP8ud4TpuVg3H95YnHxqt94wuNlpHAbrm-EyPuv1f8cB4e-_Wj0oNFtU83FYrKikRXUZRLDqXUJtwN1FTAiwxK4E_11KVtDs1HQlBnMR9iPUaZH8xZgkG-hc2LRQ4xPnjU0ZzWZe&radius=20",
+                "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=171d1bbcd7b4da23jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP8ud4TpuVg3H95YnHxqt94wuNlpHAbrm-EyPuv1f8cB4e-_Wj0oNFtU83FYrKikRXUZRLDqXUJtwN1FTAiwxK4E_11KVtDs1HQlBnMR9iPUaZH8xZgkG-hc2LRQ4xPnjU1o1DhTIAw~&radius=15",
+                "gender": 0,
+                "userDescription": "1、熟练使用Office办公软件，有五年PPT制作及演讲经验。\n2、沟通能力很强，有招商合作、电销和面销实习经验。\n3、逻辑组织能力强，有一年思维导图和流程图制作经验。\n4、时间观念很强，善于制定计划并完成。",
+                "activeTimeDesc": "本周活跃",
+                "ageDesc": "26岁",
+                "workYearDesc": "4年",
+                "degreeCategory": "本科",
+                "userDesc": "1、熟练使用Office办公软件，有五年PPT制作及演讲经验。\n2、沟通能力很强，有招商合作、电销和面销实习经验。\n3、逻辑组织能力强，有一年思维导图和流程图制作经验。\n4、时间观念很强，善于制定计划并完成。",
+                "applyStatusContent": "在职-考虑机会"
+            },
+            "geekExpectList": [
+                {
+                    "locationName": "成都",
+                    "positionName": "商务渠道",
+                    "industryDesc": "计算机软件·房地产开发经营·互联网",
+                    "salaryDesc": "11-15K",
+                    "industryExpect": false
+                },
+                {
+                    "locationName": "成都",
+                    "positionName": "总助/CEO助理/董事长助理",
+                    "industryDesc": "行业不限",
+                    "salaryDesc": "12-15K",
+                    "industryExpect": false
+                },
+                {
+                    "locationName": "成都",
+                    "positionName": "运营助理/专员",
+                    "industryDesc": "行业不限",
+                    "salaryDesc": "12-18K",
+                    "industryExpect": false
+                }
+            ],
+            "geekWorkExpList": [
+                {
+                    "workId": 324689030,
+                    "startYearMonStr": "2023.09",
+                    "endYearMonStr": "至今",
+                    "company": "华为技术有限公司全资子公司",
+                    "positionName": "<em class='h'>渠道销售</em>",
+                    "positionTitle": "",
+                    "department": "",
+                    "responsibility": "所辖产品渠道管理：区域内一级分销商渠道选择及组合；二级分销商渠道拓展与运营，新拓并扶持友商渠道、OA渠道等，寻找并激活渠道。\n伙伴管理运营：伙伴团队业绩数据、不同款型产品周销速度、提货数据、出货数据等周纬度晾晒，分析进展快速\n和缓慢原因，拉通团队内部点对点解决问题。\n线上线下营销动作：统筹举办西南区域短视频培训百人集训活动，伙伴短视频发布激励计划制定推行；伙伴公众\n号专访；线下商圈广告等上画安排；组织并主讲伙伴招募会、小型沙龙会。\n产品秩序管控：区域伙伴秩序公约签订，严控低价、窜货等违规行为，维护伙伴利益。\n伙伴赋能提升：组织产品、政策、营销等线上线下专题赋能课程，送课上门，提升伙伴作战能力。",
+                    "workPerformance": "",
+                    "workEmphasisList": []
+                },
+                {
+                    "workId": 133036979,
+                    "startYearMonStr": "2021.08",
+                    "endYearMonStr": "2023.07",
+                    "company": "金蝶软件（中国）有限公司",
+                    "positionName": "<em class='h'>渠道销售</em>",
+                    "positionTitle": "",
+                    "department": "",
+                    "responsibility": " 负责新签及扶持现有经销商，盘活沉没经销商：新签经销商持续产出业绩，已有经销商业绩增长超过 50%，\r\n沉默经销商业绩增长超过 100%。\r\n 负责大型市场活动举办：成功举办一场 600人左右产品发布会，包括前期方案确定、宣传海报、选址、场地\r\n沟通、会务沟通、供应商沟通及布展和会后问卷调研等全流程组织把控。\r\n 负责经销商员工招聘，自谈校企合作实现订单班人才输送计划。\r\n 帮助经销商搭建团队，定期组织经销商员工<em class='h'>商务</em>、业务、产品培训。\r\n 建立标杆客户案例，打开行业客户群体；组织专业市场广告投放及地推活动等。",
+                    "workPerformance": "",
+                    "workEmphasisList": [
+                        "盘活沉没代理",
+                        "软件销售"
+                    ]
+                },
+                {
+                    "workId": 121634698,
+                    "startYearMonStr": "2020.08",
+                    "endYearMonStr": "2021.07",
+                    "company": "北京超图软件股份有限公司",
+                    "positionName": "产品经理",
+                    "positionTitle": "",
+                    "department": "",
+                    "responsibility": " 全链路跟踪项目从 0-1落地，包括：寻找归纳产品需求，输出需求文档，产品功能说明书编写，产品用户手\r\n册编写，产品原型设计。\r\n 协同研发部门，确认产品需求落地，根据产品功能点测试情况调整输出产品调整意见，输出产品测试文档。\r\n 产品宣传文档撰写，输出行业解决方案。\r\n 参与产品内部评审会并汇报产品情况。\r\n 组织相关业务知识培训，培训 PPT及培训试题编写，成果验收。\r\n个人简历 细心从每一个小细节开始。\r\nPersonal resume",
+                    "workPerformance": "全程参与及独立完成产品架构图设计，产品说明书及产品宣传文档。",
+                    "workEmphasisList": [
+                        "行业分析"
+                    ]
+                }
+            ],
+            "geekProjExpList": [],
+            "geekEduExpList": [
+                {
+                    "courseDesc": null,
+                    "startYearStr": "2016",
+                    "endYearStr": "2020",
+                    "badge": "https://img.bosszhipin.com/beijin/icon/d326da55f7448e13fa88ddeab4f86abe6bb61e3b7bce0931da574d19d1d82c88.png",
+                    "school": "成都理工大学",
+                    "major": "土地资源管理",
+                    "degreeName": "本科",
+                    "eduType": 1,
+                    "tags": [
+                        "双一流院校"
+                    ],
+                    "eduDescription": "",
+                    "majorRankingDesc": "",
+                    "thesisTitle": "",
+                    "thesisDesc": ""
+                }
+            ],
+            "highestEduExp": {
+                "courseDesc": null,
+                "startYearStr": "2016",
+                "endYearStr": "2020",
+                "badge": "https://img.bosszhipin.com/beijin/icon/d326da55f7448e13fa88ddeab4f86abe6bb61e3b7bce0931da574d19d1d82c88.png",
+                "school": "成都理工大学",
+                "major": "土地资源管理",
+                "degreeName": "本科",
+                "eduType": 1,
+                "tags": [
+                    "双一流院校"
+                ],
+                "eduDescription": "",
+                "majorRankingDesc": "",
+                "thesisTitle": "",
+                "thesisDesc": ""
+            },
+            "geekSocialList": null,
+            "geekVolunteerExpList": null,
+            "geekDzDoneWorkList": null,
+            "geekCertificationList": null,
+            "geekDoneWorkList": [],
+            "highlightWords": null,
+            "certList": null,
+            "geekDesignWorksList": null,
+            "geekDesignWorksGather": null,
+            "geekPersonalImageList": null,
+            "geekDeliciousFoodImageList": null,
+            "geekPersonalLabelList": null,
+            "geekPostExpList": null,
+            "geekHandicappedInfo": null,
+            "geekTrainingExpList": [],
+            "geekHonorList": [],
+            "geekCustomInterestConfig": null,
+            "geekJobHuntGroupMemberList": null,
+            "geekClubExpList": [
+                {
+                    "name": "成都理工大学土地资源管理系学生党支部",
+                    "roleName": "副书记",
+                    "desc": "落实宣传党的方针政策，报名参加党建科技创新项目，项目落地，项目答辩。\n协助支部书记健全支部组织生活制度，记录检查整理学生党员材料，会议纪要。\n参加三下乡扶贫项目，输出项目答辩方案。",
+                    "startDateStr": "2019.07",
+                    "endDateStr": "2020.06"
+                },
+                {
+                    "name": "2016级土地资源管理2班",
+                    "roleName": "班长",
+                    "desc": "主动报名参与班级评选答辩，在职期间所在班集体获得优秀校级先进班集体称号。\n负责班级成员日常的资料整理，策划并组织成员参与班级活动。",
+                    "startDateStr": "2016.09",
+                    "endDateStr": "2020.06"
+                },
+                {
+                    "name": "成都理工大学社会工作协会",
+                    "roleName": "公关部部长",
+                    "desc": "寻找并对接公益组织，以及联系社区负责人，获得活动承接资格。\n负责社团团与公建活动方案编写、组织和实施。\n根据活动要求编写策划方案，召集志愿者，组织活动进行",
+                    "startDateStr": "2017.07",
+                    "endDateStr": "2018.09"
+                }
+            ],
+            "professionalSkill": "外语水平：英语四级,Word,Excel,PPT,MapGIS,金蝶云星辰,XMind,CAD,企业管理软件：金蝶精斗云V3,设计软件：Axure,SuperMap,地理信息行业软件：ArcGIS"
+        },
+        "securityId": "XsEimLcirg7oR-S1IsnGXyPD-xeKUew2omQOM7Z-te1a7VLp4-uph5NlOvC-ceZuMDawvcSJR2Qn7C6n23ofRDfGeLCRnj0T1elLxNibxZYzSqspkTTsvQugaM3VTtALPjrvy4cN2JkoRzFU1TFNRkdHBJ4NHnu0REsQKVvRI3evyd_oIVeq2Q65y6HvL4dPd92OfP4UtK5GqlUKvbz0nCuBNvz36NjrwnZfvU7PGzd-2Zm-umKDzPd5ovOCFUttd0mS74jtqdLH4B5ZvpYVKeasp5qSm-sNQDfX7nTwmiyaeLlRarGLXfovifpqD20SsBeBXweERKtcVXVzuhrry2z-RiJTKQl3a4Cr-lssP31lMYyipl9fqOmECCG8RFRHaJdQnu-wlL18_o0ag3aAuwLSEqUSbrQ8UfYuwlYTdc-e8Sl-GUDERuIiE44ZpeioA2v3VcIWGuGLiTNgNghyTNG27BgLJHA5NAYCMa3jC-NtbNR5FBAsxa4IOvemUk1fkzqoFVJIz0Be11ewGWDVxLcPFPFF2MgAHPdTX0h7lm7LUK8EzIGIWzR_ps_HCJWUn4coOZoDgNQ~",
+        "geekQuestInfo": null,
+        "segs": "渠道销售`商务渠道`商务",
+        "eliteGeek": 0,
+        "searchChatCardCostCount": 1,
+        "vipCostChatCount": 0,
+        "jobCompetitiveTags": null,
+        "encryptBossId": null,
+        "expectId": 332050486,
+        "encryptExpectId": "54da091b463800241Hd429i9FFpW",
+        "encryptGeekId": "ad017e55f580190c0nd_296_GFFQ",
+        "encryptJobId": "270b64f5c229945b1Hx939y4FFBS",
+        "alreadyInterested": 0,
+        "supportInterested": 1,
+        "eduCheckRes": [],
+        "workCheckRes": [],
+        "showExpectPosition": {
+            "locationName": "成都",
+            "positionName": "商务渠道",
+            "industryDesc": "计算机软件·房地产开发经营·互联网",
+            "salaryDesc": "11-15K",
+            "industryExpect": false
+        },
+        "jobCompetitive": null,
+        "bossViewGeekWorkExp": {
+            "geekWorkPositionExpDescList": [
+                "渠道销售 3年1个月",
+                "产品经理 1年"
+            ],
+            "showJobExperienceTip": ""
+        },
+        "anonymousChatItemOptions": {
+            "available": 1,
+            "availableSelect": 0,
+            "options": [],
+            "selectedItem": 19
+        },
+        "itemCallShowInfo": {
+            "show": 0,
+            "buttonText": null,
+            "bubbleText": null
+        },
+        "sendFreeGeek": 0,
+        "bottomTip": null,
+        "hunterIntentionEntrance": {
+            "showEntrance": false,
+            "text": null,
+            "cardType": 0,
+            "hasIntention": 0,
+            "popUpWindow": 0,
+            "popUpText": null
+        },
+        "rcdReason": null,
+        "bottomBubbleTip": null,
+        "resumeDeliverInfo": null,
+        "hasUseChatHelper": 0
+    }
+}

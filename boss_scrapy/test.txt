@@ -1,0 +1,39 @@
+<!DOCTYPE html><!--[if lt IE 7]><html class="ie ie6"><![endif]--><!--[if IE 7]><html class="ie ie7"><![endif]--><!--[if IE 8]><html class="ie ie8"><![endif]--><!--[if IE 9]><html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="standard"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>BOSS直聘</title>
+
+    <script src="https://static.zhipin.com/library/js/analytics/ka.zhipin.min.js"></script><script>function parseUrlParams(e){var n={},a=document.createElement("a");a.href=e;for(var i=a.search.substring(1).split("&"),r=0;r<i.length;r++){var o=i[r].split("="),t=decodeURIComponent(o[0]),h=decodeURIComponent(o[1]);if(void 0===n[t])n[t]=h;else if("string"==typeof n[t]){var l=[n[t],h];n[t]=l}else n[t].push(h)}return n}var pathname=window.location.pathname,oldLivinghostArr=["/web/geek/live","/web/geek/live/index"];if(~oldLivinghostArr.indexOf(pathname)){var href=window.location.href,hostname=window.location.hostname,livingPageUrl={qa:"https://v-qa.weizhipin.com",pre:"https://v-pre.zhipin.com",prod:"https://v.zhipin.com"},env="prod";~hostname.indexOf("qa")&&(env="qa"),~hostname.indexOf("pre")&&(env="pre");var queryParam=parseUrlParams(href)||{};queryParam.id?window.location.href=livingPageUrl[env]+"/detail/"+queryParam.id:window.location.href=livingPageUrl[env]}</script>
+
+    <script>var staticPath="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/"</script>
+    <link rel="shortcut icon" href="https://www.zhipin.com/favicon.ico">
+    <link rel="stylesheet" href="https://static.zhipin.com/v2/web/geek/css/prop-mall.css">
+    
+    <script src="https://z.zhipin.com/H5/js/plugins/web-report.min-1.39.js"></script>
+    <script>try{performanceReport({action:"action_js_monitor",appKey:"ObsSRskiryhn60pf",isAjax:!(-1<navigator.userAgent.indexOf("Atlantis"))})}catch(t){}</script>
+    
+    <script>var reportJqueryLog=function(e){try{setTimeout(function(){window.customReportData&&window.customReportData({v:"",platform:"PC",userId:"",json:JSON.stringify({code:1e4,message:"资源加载出错",extraInfo:{event:e,eventMessage:e&&e.message}})},"resource_load_monitor","jquery")},1e4)}catch(e){}}</script>
+    <script src="https://static.zhipin.com/library/js/lib/jquery-1.12.2.min.js" crossorigin="anonymous" onerror="reportJqueryLog(event)"></script>
+  <link href="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/css/zp-boss.6409e96d.css" rel="stylesheet" crossorigin="anonymous"><link href="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/css/boss-ui.6409e96d.css" rel="stylesheet" crossorigin="anonymous"><link href="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/css/app.6409e96d.css" rel="stylesheet" crossorigin="anonymous"></head>
+
+  <body><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0" aria-hidden="true" id="__SVG_SPRITE_NODE__"></svg>
+    <div id="wrap" class=""><!----><!----><!----><!----><div class="side-bar-box" style="display: none;"><div class="side-bar-wrapper"><a href="javascript:;" title="返回顶部" class="back-top"></a><ul class="side-bar-bottom"><li class="side-feedback"><a href="javascript:;"></a><span class="side-attr">反馈</span></li></ul><ul class="side-bar-top"><li class="side-interest"><a href="javascript:;" ka="side_interest"></a><span class="side-popper">感兴趣</span></li><li class="side-chat"><a href="javascript:;" ka="side_chat"></a><span class="side-popper">沟通过</span></li><li class="side-deliver"><a href="javascript:;" ka="side_deliver"></a><span class="side-popper">已投递</span></li><li class="side-interview"><a href="javascript:;" ka="side_interview"></a><span class="side-popper">面试</span></li><!----><li class="side-other"><a href="javascript:;"></a><ul class="other-list"><!----><li><a href="javascript:;" class="siderbar-wechat">微信 <div class="qrcode-layer"><i></i><img src="https://static.zhipin.com/v2/web/geek/images/wechat-qrcode-2.jpg" alt="">关注BOSS直聘微信服务号</div></a></li><li><a href="https://weibo.com/bosszhipin" target="_blank" class="siderbar">微博</a></li></ul></li></ul></div><!----></div></div>
+    <input type="hidden" id="page_key_name" value="">
+    <script src="https://static.zhipin.com/v2/web/common/mqtt-v2.1.min.js" crossorigin="anonymous"></script>
+    <script>function get_share_datas_from_html_inapp(){var e="shdefault",t=getQueryString("shid"),n=getQueryString("sid");t?e=t:n&&(e=n);var r="pkdefault",a="ppdefault",u=document.getElementById("page_key_name");if(u){var i=u.value;if(i){var l=i.split("|");1==l.length?r=l[0]:2<=l.length&&(r=l[0],a=l[1])}}var g=new Array;return g.shid=e,g.pk=r,g.pp=a,g}function getQueryString(e){var t=new RegExp("(^|&)"+e+"=([^&]*)(&|$)"),n=window.location.search.substr(1).match(t);return null!=n?unescape(n[2]):null}</script>
+    <script>var _T=_T||[];!function(){var t=document.createElement("script");t.src="https://static.zhipin.com/library/js/analytics/ka.zhipin.min.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}()</script>
+    
+    <script src="https://static.zhipin.com/library/js/lib/vue-core-v1.0.0.min.js"></script>
+    
+    <script src="https://static.zhipin.com/library/js/utils/lottie_light-v5.9.4.min.js"></script>
+    
+    <script src="https://img.bosszhipin.com/static/file/2023/fabric-5.3.0.min.js"></script>
+    
+  <script src="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/js/rxjs.6409e96d.js" crossorigin="anonymous"></script><script src="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/js/zp-boss.6409e96d.js" crossorigin="anonymous"></script><script src="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/js/boss-ui.6409e96d.js" crossorigin="anonymous"></script><script src="https://static.zhipin.com/fe-zhipin-geek/web/chat/v5527/static/js/app.6409e96d.js" crossorigin="anonymous"></script><iframe name="zhipinFrame" src="about:blank" style="height: 0px; width: 0px; margin: 0px; padding: 0px; border: 0px none; position: fixed; z-index: -100;"></iframe>
+  
+
+</body></html>
